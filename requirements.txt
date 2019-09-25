@@ -6,4 +6,4 @@ click==7.0
 gunicorn==19.9.0
 itsdangerous==1.1.0
 requests==2.22.0
-wsgiref==0.1.2
+mod_wsgi==4.6.7
